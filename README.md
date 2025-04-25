@@ -41,11 +41,9 @@ Built using the **Together.ai** API and the **Mixtral-8x7B-Instruct** model, thi
 
 ## Installation
 
-
-git clone https://github.com/yourusername/negotiation-feedback-agent.git
-cd negotiation-feedback-agent
-
-pip install -r requirements.txt
+1. Install the required Python packages:
+   ```bash
+   pip install -r requirements.txt
 
 Create a `.env` file and add your Together.ai API key:
 
@@ -82,7 +80,7 @@ Coach Feedback:
 This project is intended for academic and research purposes at the University of Florida.
 
 ## Author
-**Gauri Ahuja**  
+Gauri Ahuja  
 M.S. in Computer Science, University of Florida  
 [LinkedIn](https://linkedin.com/in/gauri777) | [Email](mailto:ahujagauri@ufl.edu)
 
