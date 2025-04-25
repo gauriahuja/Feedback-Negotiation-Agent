@@ -1,0 +1,5 @@
+Buyer: I'll offer $300 for the phone.
+Seller: That’s too low. I can do $600.
+Buyer: Hmm, okay. $350?
+Seller: Still too low. I’ll drop to $580.
+Buyer: Deal.
